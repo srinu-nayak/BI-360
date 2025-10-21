@@ -32,6 +32,7 @@ Improved forecasting accuracy, inventory planning, and cost optimization.
 
 Greater clarity on performance gaps and areas needing strategic focus.
 
+
 🔍 Key Insights
 
 • Net Sales grew ~350% (FY 2022), but Net Profit % remained negative due to high expenses.
@@ -48,6 +49,15 @@ Greater clarity on performance gaps and areas needing strategic focus.
 • Integrate real-time forecasting tools to reduce stock imbalances.
 • Review and optimize marketing spend in the UK and Germany.
 • Align inventory and promotions with peak seasonal demand (Sep–Dec).
+
+
+Features
+• Finance View: Detailed financial analysis, including revenue, expenses, and profit margins (Explore P&L statements, Net Sales Performance Trend, Top Products and Customers based on NS, GS, GM/%, COGS, NP%, Pre & Post Deductions)
+• Sales View: Insights into product and customer performance (Examine Customer and Product Performances, Performance matrix with NS and GM% on customers, Unit economics with COGS and deductions)
+• Marketing View: Analytics to enhance marketing strategy (Analyze Product Performance, Market/Regional/Customer Performance, GM% & NP% Performance on Segment, and Unit economics with COGS, Operational expenses, and NP)
+• Supply Chain View: Optimization metrics for efficient supply chain management (Investigate Forecast Accuracy, Net Error, ABS Error, Key metrics by Customer based on FA/NE/ABSE, Accuracy/Net Error Trend, and Key metrics by Product)
+• Executive View: Metrics critical for top-level decision-makers.
+
 
 🧠 Tech Stack & Skills Gained
 
