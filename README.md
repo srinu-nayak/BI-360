@@ -18,7 +18,7 @@ The reliance on fragmented, manual data sources (scattered Excel sheets) has res
 - Which customer segments and sales channels are driving the highest Gross Margin {GM}, and how can discounting strategies be optimized for better performance?
 - What is the current Forecast Accuracy {FCA}, and how can supply chain efficiency be enhanced to minimize inventory imbalances (stockouts and excess)?
 
-An interactive PowerBI dashboard can be downloaded here Link [https://app.powerbi.com/view?r=eyJrIjoiMTEzMTY2ZjktOGM4YS00ZjFlLWFjZGMtMjI0NWRmNzc1MmJhIiwidCI6IjFiMTRiNGZmLTMxMWUtNGEyMC1iM2NjLTM0ZGZhNzAxMDI2ZCJ9]
+An interactive PowerBI dashboard can be downloaded here <a href= "https://app.powerbi.com/view?r=eyJrIjoiMTEzMTY2ZjktOGM4YS00ZjFlLWFjZGMtMjI0NWRmNzc1MmJhIiwidCI6IjFiMTRiNGZmLTMxMWUtNGEyMC1iM2NjLTM0ZGZhNzAxMDI2ZCJ9">Link<a/>
 
 # Data Structure Overview
 AtliQ's database structure a seen below consists of multiple tabels:operating expenses, sales targets, and market share data etc., with a total row count of 1,858,329 records.
@@ -31,7 +31,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 # Executive Summary
 Net Sales demonstrated significant compound growth across the analysis period, escalating by approximately 280% in FY 2019, 140% in FY 2020, and reaching a peak increase of roughly 350% in FY 2022. Despite this strong top-line expansion, the company’s Net Profit Margin has remained negative since FY 2020, indicating high operational and marketing expenditure relative to revenue—a common trait for aggressive growth-stage companies. APAC consistently served as the highest-revenue region, led by the Indian market, while Amazon maintained its position as the top global retailer customer. Supply chain efficiency improved, with Forecast Accuracy ($\text{FCA}\%$) recovering from a low of 73% (post-COVID-19 disruption) to 81% in the latest fiscal year, mitigating severe stock imbalance issues.
 
-Below is the overview from the Power BI Dashboard and more example are included throughtout the report. The entire dashboard can be downloaded here [https://app.powerbi.com/view?r=eyJrIjoiMTEzMTY2ZjktOGM4YS00ZjFlLWFjZGMtMjI0NWRmNzc1MmJhIiwidCI6IjFiMTRiNGZmLTMxMWUtNGEyMC1iM2NjLTM0ZGZhNzAxMDI2ZCJ9]
+Below is the overview from the Power BI Dashboard and more example are included throughtout the report. The entire dashboard can be downloaded here <a href= "https://app.powerbi.com/view?r=eyJrIjoiMTEzMTY2ZjktOGM4YS00ZjFlLWFjZGMtMjI0NWRmNzc1MmJhIiwidCI6IjFiMTRiNGZmLTMxMWUtNGEyMC1iM2NjLTM0ZGZhNzAxMDI2ZCJ9">Link<a/>
 
 
 #### Features
